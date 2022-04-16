@@ -1,2 +1,2 @@
 # Python_Lessons
-My python tutorials
+an updated topics and additional ones including classes
